@@ -1,0 +1,6 @@
+CustomerID,Name,Age,Gender,IncomeLevel,LoyaltyScore,CustomerSegment,Location,ProductID,Category,SubCategory,Brand,CostPrice,SellingPrice,DiscountOffered,PurchaseQuantity,PaymentMethod,DateOfPurchase,SalesChannel,PaymentStatus
+1,Alice,25,F,High,90,A,NY,101,Electronics,Mobile,BrandX,200,250,10,1,Credit Card,2024-01-31,Online,Paid
+2,Bob,34,M,Medium,75,B,CA,102,Clothing,Shirts,BrandY,30,50,5,2,PayPal,2024-02-29,Retail,Paid
+3,Charlie,45,M,Low,60,C,TX,103,Home,Furniture,BrandZ,150,200,0,1,Credit Card,2024-03-31,Online,Unpaid
+4,David,23,M,Medium,50,B,FL,101,Electronics,Mobile,BrandX,200,260,15,3,Cash,2024-04-30,Retail,Paid
+5,Eva,38,F,High,85,A,NV,104,Books,Fiction,BrandW,10,15,0,5,Debit Card,2024-05-31,Online,Paid
